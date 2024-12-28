@@ -1,6 +1,6 @@
-﻿//установить пакеты
-//поместить файл в папку sqlite
-//подключиться к бд
+﻿////установить пакеты
+////поместить файл в папку sqlite
+////подключиться к бд
 
 //using (MoviesDatabaseContext db = new MoviesDatabaseContext())
 //{

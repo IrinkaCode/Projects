@@ -20,7 +20,7 @@
 //    foreach (var u in users)
 //        Console.WriteLine(u.Name + " " + u.Age);
 
-//    //изменение
+//    ////изменение
 //    //User? user=db.Users.FirstOrDefault(p=>p.Id==2);
 //    //if (user != null)
 //    //{
@@ -30,7 +30,8 @@
 //    //}
 //    //foreach (var u in users)
 //    //    Console.WriteLine(u.Name + " " + u.Age);
-//    //удаление
+
+//    ////удаление
 //    //User? user = db.Users.FirstOrDefault(p => p.Id == 2);
 //    //if (user != null)
 //    //{
